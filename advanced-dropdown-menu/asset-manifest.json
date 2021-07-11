@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/50-projects-reactjs/advanced-dropdown-menu/static/css/main.a617e044.chunk.css",
-    "main.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/main.457edcef.chunk.js",
-    "main.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/main.457edcef.chunk.js.map",
-    "runtime-main.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/runtime-main.13691e00.js",
-    "runtime-main.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/runtime-main.13691e00.js.map",
-    "static/js/2.a64233cd.chunk.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.a64233cd.chunk.js",
-    "static/js/2.a64233cd.chunk.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.a64233cd.chunk.js.map",
-    "static/js/3.6788e4ec.chunk.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/3.6788e4ec.chunk.js",
-    "static/js/3.6788e4ec.chunk.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/3.6788e4ec.chunk.js.map",
+    "main.css": "/50-projects-reactjs/advanced-dropdown-menu/static/css/main.d19b0fbb.chunk.css",
+    "main.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/main.0909f0d6.chunk.js",
+    "main.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/main.0909f0d6.chunk.js.map",
+    "runtime-main.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/runtime-main.92000e9c.js",
+    "runtime-main.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/runtime-main.92000e9c.js.map",
+    "static/js/2.5f4baa55.chunk.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.5f4baa55.chunk.js",
+    "static/js/2.5f4baa55.chunk.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.5f4baa55.chunk.js.map",
+    "static/js/3.37859403.chunk.js": "/50-projects-reactjs/advanced-dropdown-menu/static/js/3.37859403.chunk.js",
+    "static/js/3.37859403.chunk.js.map": "/50-projects-reactjs/advanced-dropdown-menu/static/js/3.37859403.chunk.js.map",
     "index.html": "/50-projects-reactjs/advanced-dropdown-menu/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/50-projects-reactjs/advanced-dropdown-menu/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a64233cd.chunk.js.LICENSE.txt": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.a64233cd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/50-projects-reactjs/advanced-dropdown-menu/static/media/logo.6ce24c58.svg"
+    "static/css/main.d19b0fbb.chunk.css.map": "/50-projects-reactjs/advanced-dropdown-menu/static/css/main.d19b0fbb.chunk.css.map",
+    "static/js/2.5f4baa55.chunk.js.LICENSE.txt": "/50-projects-reactjs/advanced-dropdown-menu/static/js/2.5f4baa55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13691e00.js",
-    "static/js/2.a64233cd.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.457edcef.chunk.js"
+    "static/js/runtime-main.92000e9c.js",
+    "static/js/2.5f4baa55.chunk.js",
+    "static/css/main.d19b0fbb.chunk.css",
+    "static/js/main.0909f0d6.chunk.js"
   ]
 }
