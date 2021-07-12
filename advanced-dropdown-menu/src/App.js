@@ -64,12 +64,13 @@ function DropdownMenu(props) {
   }
 
   return (
-    <div className="dropdown">
+    <div className="dropdown" style={{ height: menuHeight }}>
       <CSSTransition
         in={activeMenu === 'main'}
         unmountOnExit
         timeout={500}
-        classNames="menu-primary">
+        classNames="menu-primary"
+        onEnter={calcHeight}>
         <div className="menu">
           <DropdownItem>My Profile</DropdownItem>
           <DropdownItem leftIcon={<FaCog />} rightIcon={<FaChevronRight />} goToMenu="settings">
@@ -82,7 +83,8 @@ function DropdownMenu(props) {
         in={activeMenu === 'settings'}
         unmountOnExit
         timeout={500}
-        classNames="menu-secondary">
+        classNames="menu-secondary"
+        onEnter={calcHeight}>
         <div className="menu">
           <DropdownItem leftIcon={<FaArrowLeft />} goToMenu="main"></DropdownItem>
           <DropdownItem>Change password</DropdownItem>
