@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/50-projects-reactjs/animated-responsive-narbar/static/css/main.b32093a9.chunk.css",
+    "main.js": "/50-projects-reactjs/animated-responsive-narbar/static/js/main.a9ee352d.chunk.js",
+    "main.js.map": "/50-projects-reactjs/animated-responsive-narbar/static/js/main.a9ee352d.chunk.js.map",
+    "runtime-main.js": "/50-projects-reactjs/animated-responsive-narbar/static/js/runtime-main.6cd1be72.js",
+    "runtime-main.js.map": "/50-projects-reactjs/animated-responsive-narbar/static/js/runtime-main.6cd1be72.js.map",
+    "static/js/2.2fb8a567.chunk.js": "/50-projects-reactjs/animated-responsive-narbar/static/js/2.2fb8a567.chunk.js",
+    "static/js/2.2fb8a567.chunk.js.map": "/50-projects-reactjs/animated-responsive-narbar/static/js/2.2fb8a567.chunk.js.map",
+    "static/js/3.d43e9620.chunk.js": "/50-projects-reactjs/animated-responsive-narbar/static/js/3.d43e9620.chunk.js",
+    "static/js/3.d43e9620.chunk.js.map": "/50-projects-reactjs/animated-responsive-narbar/static/js/3.d43e9620.chunk.js.map",
+    "index.html": "/50-projects-reactjs/animated-responsive-narbar/index.html",
+    "static/css/main.b32093a9.chunk.css.map": "/50-projects-reactjs/animated-responsive-narbar/static/css/main.b32093a9.chunk.css.map",
+    "static/js/2.2fb8a567.chunk.js.LICENSE.txt": "/50-projects-reactjs/animated-responsive-narbar/static/js/2.2fb8a567.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cd1be72.js",
+    "static/js/2.2fb8a567.chunk.js",
+    "static/css/main.b32093a9.chunk.css",
+    "static/js/main.a9ee352d.chunk.js"
+  ]
+}
