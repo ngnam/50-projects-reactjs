@@ -10,3 +10,10 @@ Awesome project using reactjs for zero to hero reactjs
 ![advande-dropdonw-menu](/src/advanced-dropdown-menu.png)
 
 [DEMO](https://ngnam.github.io/50-projects-reactjs/advanced-dropdown-menu/)
+
+### 2. Animated Responsive Narbar
+
+![animated-responsive-narbar](/src/animated-responsive-narbar.png)
+
+[DEMO](https://ngnam.github.io/50-projects-reactjs/animated-responsive-narbar/)
+
